@@ -24,3 +24,9 @@ credentials.json
 .idea/
 .DS_Store
 Thumbs.db
+
+# Raw wildfire datasets
+wildfire-datasets/
+
+# Generated AI training data
+data/ai/
